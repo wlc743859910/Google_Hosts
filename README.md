@@ -2,10 +2,6 @@
 
 ---
 
-Google_Hosts
-
----
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/wlc743859910/Google_Hosts/img/gh-readme-header.webp">
 </p>
