@@ -3,6 +3,6 @@
 
 
 
-# Update url: https://github.com/wlc743859910/Google_Hosts/blob/master/Google_Hosts.txt
+# Update url: https://raw.github.ink/wlc743859910/Google_Hosts/master/Google_Hosts.txt
 # Star me: https://github.com/wlc743859910/Google_Hosts
 # Google_Hosts End
